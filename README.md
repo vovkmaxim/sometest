@@ -1,4 +1,4 @@
-sometest
+testing git
 ========
 
-sometest
+my first change in project git 
