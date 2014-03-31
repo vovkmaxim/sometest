@@ -5,7 +5,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-11111111111111111
+NORM11111111111111111
 
 Из-за того, что ветка в Git'е на самом деле является простым 
     файлом, который содержит 40 символов контрольной суммы SHA-1 
