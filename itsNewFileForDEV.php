@@ -5,7 +5,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-fdrgfd
+NORMfdrgfd
 
 
 Из-за того, что ветка в Git'е на самом деле является простым 
