@@ -13,8 +13,8 @@
     <div id="loder"></div>
     <div id="result"></div>
     
-    <script type="text/javascript" src="jquery-1.3.1.min.js"></script>
-    <script type="text/javascript" src="jquery.json-1.3.js"></script>
+    <script type="text/javascript" src="javascript/jquery-1.3.1.min.js"></script>
+    <script type="text/javascript" src="javascript/jquery.json-1.3.js"></script>
     <script type="text/javascript">
        function SendRequest(){
            var formData = {
