@@ -5,5 +5,12 @@ $response = '';
 foreach ($data as $key=>$value) {
     $response .= 'You '.$key.': '.$value."<br>";
 }
-echo $response;
-?>
+
+$return_json_arr = array(
+    'isSuccess' => true,
+    'data' => [
+        'message' => 'You comment add',
+        'comment' => $response
+        ]
+);
+echo json_encode($return_json_arr);
